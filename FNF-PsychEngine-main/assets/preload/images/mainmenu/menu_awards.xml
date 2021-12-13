@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_awards.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awards basic0000" x="10" y="10" width="250" height="92"/>
+	<SubTexture name="awards basic0001" x="270" y="10" width="250" height="92"/>
+	<SubTexture name="awards basic0002" x="530" y="10" width="250" height="92"/>
+	<SubTexture name="awards white0000" x="10" y="112" width="250" height="92"/>
+	<SubTexture name="awards white0001" x="270" y="112" width="250" height="92"/>
+	<SubTexture name="awards white0002" x="530" y="112" width="250" height="92"/>
+</TextureAtlas>

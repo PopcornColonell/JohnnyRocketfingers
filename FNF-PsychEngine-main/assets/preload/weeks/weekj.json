@@ -1,0 +1,48 @@
+{
+	"storyName": "Johnny Rocketfingers",
+	"hideFreeplay": false,
+	"weekBackground": "johnbg",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"john",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Suppish",
+			"john",
+			[
+				126,
+				133,
+				133
+			]
+		],
+		[
+			"Brutality",
+			"john",
+			[
+				126,
+				133,
+				133
+			]
+		],
+		[
+			"Kickass",
+			"john",
+			[
+				126,
+				133,
+				133
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

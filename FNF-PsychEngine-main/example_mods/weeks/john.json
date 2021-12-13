@@ -1,0 +1,25 @@
+{
+	"storyName": "trol",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekj",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Infijohnny",
+			"johnathan",
+			[
+				186,
+				85,
+				211
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "trol"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				371
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cancer_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				223
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cancer_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				329
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cancer_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				234
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cancer_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				416
+			],
+			"anim": "scream",
+			"fps": 23,
+			"name": "cancer_scream",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				250
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cancer_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/johnny_cancer",
+	"position": [
+		-50,
+		400
+	],
+	"healthicon": "johnathan",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		40,
+		175
+	],
+	"camera_position": [
+		220,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "johnny_idle"
+		},
+		{
+			"offsets": [
+				77,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "johnny_left"
+		},
+		{
+			"offsets": [
+				153,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "johnny_down"
+		},
+		{
+			"offsets": [
+				66,
+				105
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "johnny_up"
+		},
+		{
+			"offsets": [
+				3,
+				-49
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "johnny_right"
+		},
+		{
+			"offsets": [
+				-20,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "cough",
+			"loop": false,
+			"name": "johnny_cough"
+		},
+		{
+			"offsets": [
+				-20,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "brutality",
+			"loop": false,
+			"name": "johnny_brutality"
+		},
+		{
+			"offsets": [
+				-20,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "kickass",
+			"loop": false,
+			"name": "johnny_kickass"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/johnny_assets3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		155,
+		166
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
